@@ -18,7 +18,7 @@ Sigue estos pasos para configurar y ejecutar el proyecto en tu máquina local:
 Ejecuta este comando para clonar el proyecto y acceder a su directorio:
 
 ```bash
-git clone https://github.com/ilmovilDev/youreview-frontend-ReactJS.git
+git clone https://github.com/ilmovilDev/youreview-fronten-reactjs.git
 cd youreview-frontend-ReactJS
 ```
 
